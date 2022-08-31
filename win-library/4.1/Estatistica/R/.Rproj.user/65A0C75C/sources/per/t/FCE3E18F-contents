@@ -1,0 +1,15 @@
+dados = read.csv("Banco de dados.csv", header = TRUE, dec = ",", sep = ";")
+table (dados$Curso)
+table (dados$Turma)
+table (dados$Idade)
+table (dados$NumIrmaos)
+table (dados$Genero)
+table (dados$Genero)/76*100
+sum (table (dados$Genero)/76*100)
+sort(dados$Peso)
+
+
+x = c(14,5,6,9)
+x/89*100
+round(x/89*100,1)#arredonda uma casa decimal
+

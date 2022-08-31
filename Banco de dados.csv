@@ -1,0 +1,91 @@
+Turma;Curso;Genero;Idade;Altura;Peso;NumIrmaos;Sedentario;NumHorasDorme;NumHorasEstuda;NumHorasRedesSociais
+A;Agronomia;Masculino;19;180;68;1;Não;9;1;5
+A;Agronomia;Masculino;19;178;72;2;Não;7;10;2
+A;Agronomia;Feminino;20;155;55;2;Sim;8;2;3
+A;Agronomia;Masculino;26;173;74;3;Não;8;9;2
+A;Agronomia;Feminino;25;153;45;5;Sim;6;2;10
+A;Agronomia;Masculino;20;175;78;2;Sim;8;6;4
+A;Agronomia;Feminino;19;169;60;4;Não;6,5;7;5
+A;Agronomia;Feminino;19;160;80;4;Sim;8;4;5
+A;Agronomia;Masculino;19;174;90;1;Não;8;2;1
+A;Agronomia;Feminino;24;157;65;0;Não;8;5;6
+A;Agronomia;Feminino;23;177;55;3;Sim;10;4;4
+A;Agronomia;Masculino;21;175;85;1;Não;6;6;4
+A;Agronomia;Masculino;25;174;79;4;Sim;6;4;2
+A;Agronomia;Masculino;27;170;65;5;Sim;7;3;4
+A;Agronomia;Masculino;22;175;85;1;Não;7;5;7
+A;Agronomia;Feminino;21;160;64;2;Não;9;2;10
+A;Agronomia;Masculino;19;179;54;2;Sim;6;6;3
+A;Engenharia Florestal;Masculino;20;175;50;2;Sim;8;4;2
+A;Engenharia Florestal;Masculino;25;180;58;2;Não;6;3;2
+A;Engenharia Florestal;Masculino;23;168;88;1;Sim;6;6;12
+A;Engenharia Florestal;Feminino;26;172;73;4;Não;8;4;NA
+A;Engenharia Florestal;Masculino;21;179;54;4;Não;8;7;9
+A;Engenharia Florestal;Masculino;20;182;74;3;Não;7,5;2;2
+A;Engenharia Florestal;Masculino;21;165;65;2;Não;7;2;NA
+A;Engenharia Florestal;Feminino;21;169;73;0;Não;12;10;2
+A;Sistemas de Informação;Masculino;21;165;56;2;Não;8;2;3
+A;Sistemas de Informação;Masculino;21;177;78;4;Não;6;3;4
+A;Sistemas de Informação;Masculino;22;180;85;2;Não;6;1;2
+A;Sistemas de Informação;Masculino;23;178;63;5;Não;6;3;2
+A;Sistemas de Informação;Masculino;23;178;92;1;Não;6;1;4
+A;Sistemas de Informação;Feminino;25;158;73;3;Sim;8;6;3
+A;Sistemas de Informação;Feminino;23;168;110;2;Não;6;8;2
+A;Sistemas de Informação;Feminino;23;174;61,5;1;Não;5;8;2
+A;Sistemas de Informação;Feminino;20;172;80;2;Não;9;4;1
+A;Sistemas de Informação;Masculino;20;176;62;2;Não;8;8;3
+A;Sistemas de Informação;Masculino;23;187;90;2;Não;7;7;3
+A;Sistemas de Informação;Masculino;23;179;89;1;Sim;8;4;1
+A;Sistemas de Informação;Masculino;24;183;90;2;Sim;8;2;3
+A;Sistemas de Informação;Masculino;22;181;80;2;Não;9;6;4
+A;Sistemas de Informação;Masculino;23;181;76;1;Sim;7;5;4
+A;Sistemas de Informação;Masculino;20;179;NA;3;Sim;8;2;6
+A;Sistemas de Informação;Masculino;22;167;81;2;Não;8;2;6
+A;Sistemas de Informação;Masculino;20;191;70;1;Sim;7;4;5
+A;Sistemas de Informação;Masculino;23;170;65;0;Sim;6;5;2
+A;Sistemas de Informação;Masculino;23;168;78;0;Não;6;4;6
+A;Sistemas de Informação;Masculino;23;171;60;3;Não;10;2;3
+A;Sistemas de Informação;Masculino;19;173;58;3;Não;8;4;1,5
+A;Sistemas de Informação;Feminino;20;167;64,8;2;Sim;8;3;NA
+A;Sistemas de Informação;Masculino;28;186;86;3;Sim;6;5;1
+A;Zootecnia;Feminino;20;165;64;2;Sim;8;3;1
+A;Zootecnia;Feminino;20;171;65;0;Não;6;4;2
+A;Zootecnia;Feminino;20;165;50;1;Sim;8;10;4
+A;Zootecnia;Feminino;20;160;47;1;Sim;8;10;3
+A;Zootecnia;Feminino;24;169;66;1;Não;8;3;2
+C;Agronomia;Feminino;31;165;49;2;Sim;8;1;2
+C;Agronomia;Masculino;22;175;78;3;Não;10;2;1
+C;Agronomia;Feminino;20;161;69;2;Não;8;2;4
+C;Agronomia;Feminino;20;162;60;1;Não;9;6;4
+C;Engenharia Florestal;Masculino;28;169;92;2;Não;6;3;1
+C;Engenharia Florestal;Masculino;23;175;88;1;Não;6;8;4
+C;Engenharia Florestal;Feminino;21;173;65;3;Sim;8;NA;NA
+C;Engenharia Florestal;Feminino;21;158;60;2;Não;NA;4;NA
+C;Engenharia Florestal;Masculino;21;177;79;2;Não;8;9;3
+C;Engenharia Florestal;Feminino;22;160;61;2;Sim;8;0,75;1
+C;Engenharia Florestal;Masculino;23;174;80;1;Não;7;1;2
+C;Engenharia Florestal;Masculino;23;180;85;1;Não;8;3;2
+C;Engenharia Florestal;Masculino;26;176;60;1;Não;10;2;3
+C;Engenharia Florestal;Feminino;21;167;77;5;Sim;7;3;10
+C;Engenharia Florestal;Feminino;22;170;68;4;Sim;10;4;13
+C;Engenharia Florestal;Feminino;23;175;62;1;Sim;7;1,5;4,5
+C;Engenharia Florestal;Feminino;20;165;60;0;Não;8;4;4
+C;Engenharia Florestal;Feminino;19;160;43;1;Sim;11;4;3
+C;Engenharia Florestal;Feminino;18;165;65;2;Não;9;6;2
+C;Engenharia Florestal;Feminino;19;155;46;1;Não;6,5;9;3
+C;Engenharia Florestal;Feminino;20;158;68;2;Não;9;6;6,5
+C;Engenharia Florestal;Feminino;19;167;54;1;Não;8;4;3
+C;Engenharia Florestal;Masculino;22;172;93;3;Sim;6;3;4
+C;Sistemas de Informação;Masculino;22;170;70;1;Sim;8;5;4
+C;Sistemas de Informação;Masculino;23;184;105;4;Não;6,5;6;2
+C;Sistemas de Informação;Masculino;26;172;60;3;Não;8;10;1,1
+C;Sistemas de Informação;Masculino;20;171;65;4;Não;8;2;3
+C;Zootecnia;Feminino;21;180;52;2;Sim;10;4;5
+C;Zootecnia;Feminino;23;168;60;2;Não;10;2;12
+C;Zootecnia;Feminino;22;171;79;5;Não;8;4;6
+C;Zootecnia;Masculino;24;175;76;0;Sim;8;4;6
+C;Zootecnia;Masculino;23;174;88;1;Sim;9;3;4
+C;Zootecnia;Feminino;22;160;54;2;Não;7;5;3
+C;Zootecnia;Feminino;20;167;55,4;1;Sim;5;6,5;12
+C;Zootecnia;Feminino;22;170;64;2;Sim;9;1;6
+C;Zootecnia;Feminino;21;164;57,7;1;Não;6;7;2
